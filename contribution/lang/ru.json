@@ -7796,15 +7796,15 @@
  	 	 	"eng": "this name is used by other player, please use other name"
  	 	},
  	 	"nameIllegal": {
- 	 	 	"trans": "Незаконное имя, используйте другое имя",
+ 	 	 	"trans": "Недопустимое имя, используйте другое имя",
  	 	 	"eng": "Illegal name, please use other name"
  	 	},
  	 	"nameProfane": {
- 	 	 	"trans": "Это имя содержит сформулирование, пожалуйста, используйте другое имя",
+ 	 	 	"trans": "Это имя содержит недопустимые слова, пожалуйста, используйте другое имя",
  	 	 	"eng": "This name contains wordings not allowed, please use other name"
  	 	},
  	 	"nameInvalid": {
- 	 	 	"trans": "Длина имени должна быть больше, чем 4, меньше или равна 16 и содержит только английские символы, числа или \\ '_ \\'",
+ 	 	 	"trans": "Длина имени должна быть больше 4, максимально 16 символов, имя должно содержать только английские символы, числа или \\ '_ \\'",
  	 	 	"eng": "name length must be greater then 4, less then or equal to 16 and only contains English characters, numbers or \\'_\\'"
  	 	}
  	}
